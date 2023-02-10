@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-         This continious deployment is prepared by  Getachew Sharew Abrha
+         app.icladdis.com continous deployment under preparation
         </a>
       </header>
     </div>
