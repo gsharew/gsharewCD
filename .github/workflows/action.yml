@@ -28,3 +28,4 @@ jobs:
         password: ${{ secrets.ftp_password }}
         dangerous-clean-slate : true
         local-dir : ./build/
+        ignore-warnings: true
